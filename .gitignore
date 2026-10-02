@@ -1,3 +1,22 @@
+# Visual Studio local state
+.vs/
+**/.vs/
+
+# Visual Studio build/intermediate directories
+sources/rodent-iv/
+sources/x64/
+sources/Debug/
+sources/Release/
+
+# Common MSVC build products
+*.obj
+*.pdb
+*.ipdb
+*.iobj
+*.tlog
+*.lastbuildstate
+*.log
+
 # Prerequisites
 *.d
 
